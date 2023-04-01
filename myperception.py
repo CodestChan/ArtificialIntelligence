@@ -1,7 +1,7 @@
 
 #训练集和测试集文件名
-FILENAME_TRAIN=r'D:\Machinelearn\envs\pynlp\pyhanlp-master\pyhanlp\static\data\test\cnname\train.csv'
-FILENAME_TEST=r'D:\Machinelearn\envs\pynlp\pyhanlp-master\pyhanlp\static\data\test\cnname\test.csv'
+FILENAME_TRAIN=r'train.csv'
+FILENAME_TEST=r'test.csv'
 
 def load_data(filename:str):
     """
