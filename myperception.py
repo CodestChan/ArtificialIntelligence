@@ -2,7 +2,7 @@
 #训练集和测试集文件名
 FILENAME_TRAIN=r'train.csv'
 FILENAME_TEST=r'test.csv'
-
+#
 def load_data(filename:str):
     """
     filename:文件名
