@@ -1,6 +1,6 @@
 import myperception as mp
 import copy
-
+#
 def load_name_data(filename):
     """
     filename:文件名
